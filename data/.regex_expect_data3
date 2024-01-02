@@ -1,0 +1,25 @@
+Operation: +
+Operation: -
+Operation: *
+Operation: /
+Operation: (
+Operation: )
+Operation: +
+Operation: -
+Operation: *
+Operation: /
+Operation: (
+Operation: )
+Integer: 1
+Integer: 123
+Double: 124.5
+Error: hello
+Error: and,Error: goodbye
+Operation: -,Integer: 1,Operation: +,Integer: 5,Operation: +,Operation: -,Integer: 17,Operation: *,Integer: 54,Operation: (,Integer: 11,Operation: +,Error: x,Operation: )
+Integer: 100,Operation: -,Integer: 19,Operation: /,Integer: 9
+Error: k,Operation: +,Integer: 17,Operation: -,Integer: 76,Operation: /,Operation: (,Integer: 13,Operation: *,Integer: 3,Operation: +,Operation: -,Integer: 4,Operation: )
+Operation: (,Operation: -,Operation: (,Integer: 20,Operation: *,Operation: (,Integer: 5,Operation: -,Operation: (,Integer: 4,Operation: -,Integer: 6,Operation: ),Operation: ),Operation: ),Operation: ),Operation: +,Integer: 911
+Double: 14.5,Operation: /,Double: 0.3,Operation: *,Integer: 17,Operation: -,Integer: 7
+Error: 1.4k,Operation: +,Integer: 77
+Integer: 76,Operation: -,Integer: 16,Operation: /,Operation: (,Error: y.54,Operation: )
+Integer: 13,Operation: /,Error: .3
